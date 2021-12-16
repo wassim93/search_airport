@@ -1,2 +1,5 @@
 # search_airport
-Search Airport App
+Search Airport IOS App
+-   RXswift 
+-   MVVM Coordinator
+-   Cocoapods
