@@ -7,6 +7,7 @@ target 'CitySearchAirport' do
 
    pod 'RxSwift'
    pod 'RxCocoa'
+   pod 'RxDataSources'
 
   # Pods for CitySearchAirport
 
